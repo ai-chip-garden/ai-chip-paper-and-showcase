@@ -32,3 +32,8 @@ Raspberry Pi
 ## 蜡笔小新tts已完成
 
 ## 从paper中抠出来abstract和introduction 未完成
+
+## 蜡笔小新虚拟人
+3d模型  
+2d模型
+对口型
